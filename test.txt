@@ -1,0 +1,2 @@
+my first file 
+welcome to the first git command 
