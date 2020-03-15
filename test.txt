@@ -1,2 +1,4 @@
 my first file 
 welcome to the first git command 
+git modified file to be reverted using git stash
+
